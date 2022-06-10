@@ -80,6 +80,7 @@ p {
 	align-content: center;
 	border-radius: 10px;
 	overflow: hidden;
+	box-shadow: 1px 1px 8px #888888;
 }
 
 /* -------------------------------------------------------------------------- */
